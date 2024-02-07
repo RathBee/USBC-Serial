@@ -1,6 +1,7 @@
 A compact USB-C to UART bridge with independent UART IO power rail utlizing the CH343 chip
 
 Main features:
+
   1.UART interface I/O powered independently, never worry about backfeeding again.
 
   2.High baud rate. Maximum speed up to 6Mbps.
