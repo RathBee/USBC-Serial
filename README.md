@@ -15,6 +15,10 @@ Main features:
 
 ![image](https://github.com/RathBee/USBC-Serial/assets/157344506/339d0d1c-ced1-4360-be58-99b8133088ba)
 
+
+![image](https://github.com/RathBee/USBC-Serial/assets/157344506/88921067-cd8d-46bf-85a6-ad80e239f427)
+
+
 Warning: Do not try to power you external circuit with this board's 3.3V pin, the CH343's internal regulator can only handle 10mA of current.
 It is also not recommeneded to use this board's 5V pin to power your external circuit, since the copper trace for this pin is not very wide.
 
