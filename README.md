@@ -2,10 +2,14 @@ A compact USB-C to UART bridge with independent UART IO power rail utlizing the 
 
 Main features:
   1.UART interface I/O powered independently, never worry about backfeeding again.
+
   2.High baud rate. Maximum speed up to 6Mbps.
+
   3.Supports USB CDC driver. No annoying driver instalation anymore.
+
   4.Correctly implemented USB-C port, you can use any cable you like.
   (some badly designed USB-C device tends to lack the two 5.1k pull-down resistor, or shorts two cc pin together, causing the device to become unusable when using certain C to C cables)
+
   5.Compact. (2cm x 3cm)
 
 ![image](https://github.com/RathBee/USBC-Serial/assets/157344506/339d0d1c-ced1-4360-be58-99b8133088ba)
