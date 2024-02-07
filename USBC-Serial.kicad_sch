@@ -931,11 +931,6 @@
     (uuid f6f5fbdf-c299-4f83-83b3-bc586169cbf8)
   )
 
-  (text "cc不下拉，全家火葬场\n" (at 63.5 35.56 0)
-    (effects (font (size 1.27 1.27)) (justify left bottom))
-    (uuid f03fd52f-09ad-43cf-afb7-bf55e6e08d22)
-  )
-
   (label "RXD" (at 80.01 63.5 0) (fields_autoplaced)
     (effects (font (size 1.27 1.27)) (justify left bottom))
     (uuid 0616a9fb-8b07-4115-b617-535b7adf49e9)
