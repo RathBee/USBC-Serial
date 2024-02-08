@@ -11,9 +11,9 @@ Main features:
   4.Correctly implemented USB-C port, you can use any cable you like.
   (some badly designed USB-C device tends to lack the two 5.1k pull-down resistor, or shorts two cc pin together, causing the device to become unusable when using certain C to C cables)
 
-  5.Compact. (2cm x 3cm)
+  5.Compact. (2cm x 2.6cm)
 
-![image](https://github.com/RathBee/USBC-Serial/assets/157344506/339d0d1c-ced1-4360-be58-99b8133088ba)
+![image](https://github.com/RathBee/USBC-Serial/assets/157344506/bcd4bf23-1611-4757-a1a5-ba1b62f17a73)
 
 
 ![image](https://github.com/RathBee/USBC-Serial/assets/157344506/88921067-cd8d-46bf-85a6-ad80e239f427)
