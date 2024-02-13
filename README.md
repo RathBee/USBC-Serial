@@ -22,9 +22,8 @@ Main features:
 
 
 Warning: Do not try to power you external circuit with this board's 3.3V pin, the CH343's internal regulator can only handle 10mA of current.
-It is also not recommeneded to use this board's 5V pin to power your external circuit, since the copper trace for this pin is not very wide.
+Instead, this pin should only be used to power the CH343's internal UART transciver. 
 
-Instead, these to pins should only be used to power the CH343's internal UART transciver. 
 You can short the 5V pin to the VIO pin to get 5V level UART output. It's the same for 3.3V.
 
 You can also power the CH343's UART transciver using your own power supply, for example, your MCU's power supply(assuming you are connecting this board to a MCU).
