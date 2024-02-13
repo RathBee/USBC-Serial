@@ -13,7 +13,8 @@ Main features:
 
   5.Compact. (2cm x 2.6cm)
 
-![image](https://github.com/RathBee/USBC-Serial/assets/157344506/e936dfdf-2beb-4cc4-bbbd-1bd54ad333d5)
+![image](https://github.com/RathBee/USBC-Serial/assets/157344506/da4f36a1-c0ac-4012-ae22-c6ad6ea70610)
+
 
 
 
